@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/online-shop-practice/static/css/main.7a7a88ca.chunk.css",
+    "main.js": "/online-shop-practice/static/js/main.38bff349.chunk.js",
+    "main.js.map": "/online-shop-practice/static/js/main.38bff349.chunk.js.map",
+    "runtime-main.js": "/online-shop-practice/static/js/runtime-main.1ffc9699.js",
+    "runtime-main.js.map": "/online-shop-practice/static/js/runtime-main.1ffc9699.js.map",
+    "static/js/2.3151f1a1.chunk.js": "/online-shop-practice/static/js/2.3151f1a1.chunk.js",
+    "static/js/2.3151f1a1.chunk.js.map": "/online-shop-practice/static/js/2.3151f1a1.chunk.js.map",
+    "index.html": "/online-shop-practice/index.html",
+    "precache-manifest.f8522acbfa3b70f88d300dbe761aae27.js": "/online-shop-practice/precache-manifest.f8522acbfa3b70f88d300dbe761aae27.js",
+    "service-worker.js": "/online-shop-practice/service-worker.js",
+    "static/css/main.7a7a88ca.chunk.css.map": "/online-shop-practice/static/css/main.7a7a88ca.chunk.css.map",
+    "static/js/2.3151f1a1.chunk.js.LICENSE.txt": "/online-shop-practice/static/js/2.3151f1a1.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/online-shop-practice/static/media/RC-NEWS-Growing-Smarter-report-released-0219.0798a377.jpg",
+    "static/media/star-1.svg": "/online-shop-practice/static/media/star-1.afce843d.svg",
+    "static/media/star-2.svg": "/online-shop-practice/static/media/star-2.ca05b033.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ffc9699.js",
+    "static/js/2.3151f1a1.chunk.js",
+    "static/css/main.7a7a88ca.chunk.css",
+    "static/js/main.38bff349.chunk.js"
+  ]
+}
